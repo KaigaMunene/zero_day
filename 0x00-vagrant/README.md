@@ -1,0 +1,1 @@
+# Contains a file that shows the command uname  will print when you run it without any option
